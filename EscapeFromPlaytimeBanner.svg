@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Escape From Playtime</title>
+  <desc id="desc">Official Escape From Playtime key art from Mob Entertainment.</desc>
+  <defs>
+    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#050306" stop-opacity=".42"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="#090609"/>
+  <image href="https://mobentertainment.com/payload-api/media/file/escape-from-playtime.webp" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1280" height="720" fill="url(#shade)"/>
+</svg>
